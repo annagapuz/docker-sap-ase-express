@@ -11,7 +11,8 @@ https://www.sap.com/cmp/td/sap-ase-enterprise-edition-trial.html
 ### SAP JVM 8 for 64-bit Linux
 Although the JRE comes packaged with the evaluation install, it didn't work
 
-https://tools.hana.ondemand.com/additional/sapjvm-8.1.067-linux-x64.zip
+https://tools.hana.ondemand.com/#cloud
+https://tools.hana.ondemand.com/additional/sapjvm-8.1.088-linux-x64.zip
 
 ## Build and Run Docker Container
 
